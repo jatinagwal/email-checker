@@ -1,0 +1,2 @@
+# email-checker
+Email checker is a command line app that verifies email domains and give you spf records, DMARC records for that domain. You can also put multiple domains but not do bulk uploading(eg.csv file) as this is made entirley on golang. Also, it gives mxrecord status. To run this you need your terminal to run main.go file which will then ask you for domain and after that you will get your details.
